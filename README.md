@@ -13,3 +13,4 @@ Public score: 0.77033 | Position: ~1470/17000
 XGBoost regressor with GridSearchCV hyperparameter tuning
 Custom preprocessing pipeline with LabelEncoders and StandardScaler
 Public score: 0.13528
+v003: GradientBoostingClassifier with full sklearn Pipeline and ColumnTransformer. Custom ML-based cabin deck predictor (GBC) to fill NaN values. Ticket_Group feature engineering to handle unseen test tickets. Public score: 0.77272
